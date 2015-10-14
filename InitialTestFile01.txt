@@ -1,1 +1,3 @@
-Here's a simple test text file I've created and need's to be committed.
+Here's a simple test text file I've created which also need's to be committed.
+
+This is a new line I've added in testfeature02 feature branch.
