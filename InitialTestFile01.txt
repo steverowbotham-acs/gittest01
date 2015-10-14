@@ -1,1 +1,3 @@
-Here's a simple test text file I've created and need's to be committed.
+Here's a simple test text file I've created and need's to be committed and that has now been changed by User 2.
+
+New stuff here for feature03, yada yada.
