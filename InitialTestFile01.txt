@@ -1,4 +1,4 @@
 Here's a simple test text file I've created which also need's to be committed and that has now been changed by User 2.
-
+New line for feature05. This is inserted.
 This is a new line I've added in testfeature02 feature branch.
 New stuff here for feature03, yada yada.
