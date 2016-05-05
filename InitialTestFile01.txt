@@ -1,5 +1,5 @@
 Here's a simple test text file I've created which also need's to be committed and that has now been changed by User 2 and User 1.
-New line for feature06. This is inserted. Also added this for feature07.
+New line for feature06. This is inserted. Added in feature branch and also added this for feature07.
 This is a new line I've added in testfeature02 feature branch. Another change in feature11. I've changed this line in feature09.
 New line for feature08.
 New stuff here for feature03, yada yada.
@@ -8,3 +8,4 @@ New line for feature07.
 New line for feature09
 New line for feature10.
 New line for feature11.
+New line for feature in different branch.
