@@ -8,4 +8,5 @@ New line for feature07.
 New line for feature09
 New line for feature10.
 New line for feature11.
+New line for feature12, should conflict.
 New line for feature in different branch.
