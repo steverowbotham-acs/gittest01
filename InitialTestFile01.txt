@@ -10,4 +10,5 @@ New line for feature10.
 New line for feature11.
 New line for feature12, should conflict.
 New line for feature13, should conflict.
+New line for feature in another different branch.
 New line for feature in different branch.
