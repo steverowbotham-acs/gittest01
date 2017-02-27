@@ -1,1 +1,1 @@
-Another file to be added for testfeature02. Gonna also change another file (updated this line to test rebase) for the same feature.
+Yet another file to be changed for testfeature04. Gonna also change another file (updated this line to test rebase) for the same feature.
