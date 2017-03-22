@@ -14,3 +14,4 @@ New line for feature13, should conflict.
 New line for feature in another different branch.
 New line for feature in different branch.
 New line for feature branch to rebase.
+Change on master.
