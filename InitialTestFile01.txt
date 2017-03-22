@@ -1,4 +1,5 @@
 Here's a simple test text file I've created which also need's to be committed and that has now been changed by Inserted in to this local feature.
+Another line for local feature (take 2).
 User 2 and User 1.
 New line for feature06. This is inserted. Added in feature branch and also added this for feature07.
 This is a new line I've added in testfeature02 feature branch. Another change in feature11. I've changed this line in feature09.
