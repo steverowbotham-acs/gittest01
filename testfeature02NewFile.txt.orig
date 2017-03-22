@@ -1,0 +1,7 @@
+<<<<<<< HEAD
+Yet another file to be changed for testfeature04. Gonna also change another file (updated this line to test rebase) for the same feature.Another file to be added for testfeature02. User 1 is also changing this line of the file (updated this line to test rebase) for the same feature.
+
+Added a line.
+=======
+Another file to be added for testfeature02. User 1 is also changing this line of the file (updated this line to test rebase) for the same feature.
+>>>>>>> Trying a conflicting change
